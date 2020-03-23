@@ -1,0 +1,3 @@
+inflation: 1.02 ## average rate of inflation
+money_needed_by_each_dependent: 285000 ## to raise a kid from childbirth to adulthood... Source: https://blog.seedly.sg/cost-raise-child-singapore/. if parents, key in how much you want to give
+money_for_alternative_treatment: 160000 ## extra money for alternative treatment for critical illness in case not covered by hospital plan
